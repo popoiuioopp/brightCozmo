@@ -6,7 +6,7 @@ import asyncio
 
 import voiceParse
 
-APIKEY = "CC8o4IwXba1_aD74BgI46ZHxFBQ"
+APIKEY = ""
 
 #Charger
 cozmo.robot.Robot.drive_off_charger_on_connect = False
